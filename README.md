@@ -1,12 +1,18 @@
-In main program loop is in main.py.
+Main program loop is in main.py. 
 
-Upload lcd.py from src to the rpi pico. Create env.py and add your credentials, example:
+Upload lcd.py from src to the rpi pico. 
+
+
+
+Create env.py and add your credentials, example: 
 
 env = {
 
 &nbsp;   "wifi\_ssid": 'SPS-PROSEK HOST',
 
-&nbsp;   "api\_key": ""
+&nbsp;   "api\_key": "abcdef123456789"
 
 }
+
+also upload this
 
